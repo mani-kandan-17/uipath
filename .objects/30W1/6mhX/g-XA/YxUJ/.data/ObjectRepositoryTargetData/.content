@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8LmpMfZS7kOVv-RdLsCbkg" Reference="wgnFpISUN0WmFXEKviibUw/YxUJ4Hfg8EK09gPkn2tcoA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="192.168.5.2/AutoLib/Simples/SimpleServlet" ContentHash="cggnFCdkzUWNwo7-FBfk-g" DesignTimeRectangle="915, 527, 56, 22" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='submit' /&gt;" Guid="c5076cfd-75cc-4b7b-8242-6ff17dc70dbc" Reference="wgnFpISUN0WmFXEKviibUw/YxUJ4Hfg8EK09gPkn2tcoA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Loyola-ICAM College of Engineering and Technology' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="af27ce44439b6ed5f8b9fff900986057.jpg" xmlns="">0CCIWnhK6_kmIO65gr15EoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

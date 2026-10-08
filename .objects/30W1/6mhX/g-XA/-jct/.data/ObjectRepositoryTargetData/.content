@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8W6uWd_LlkC9vOJAIKny0Q" Reference="wgnFpISUN0WmFXEKviibUw/-jctLMghMUaw18m3aJ57hQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="http://192.168.5.2:8080/AutoLib/Simples/SimpleServlet?Title=&amp;Author=&amp;Call_no=&amp;Publisher=&amp;acc_no=&amp;subject=&amp;isbn=&amp;Keywords=&amp;Year=&amp;location=&amp;edition=&amp;txtBranch=NO&amp;flag=&amp;hid=search" ContentHash="j3-zEFJWQ0qn2UKGeN1ezw" DesignTimeRectangle="8, 95, 1920, 703" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BODY' /&gt;" Guid="c8e6bb2f-18c1-4c71-882a-b4fa97b8ebe8" Reference="wgnFpISUN0WmFXEKviibUw/-jctLMghMUaw18m3aJ57hQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Loyola-ICAM College of Engineering and Technology' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6b11dc18ca2c2586979d3352893e9107.jpg" xmlns="">0XHuy1lamWUqsd3ZbKr31KQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractDataGeneric</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='New column 0'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

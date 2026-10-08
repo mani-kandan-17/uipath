@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Loyola-ICAM College of Engineering and",
+  "Type": "Screen",
+  "Id": "g-XApO-36Uqp1F7crfEKng",
+  "Reference": "wgnFpISUN0WmFXEKviibUw/g-XApO-36Uqp1F7crfEKng",
+  "ParentRef": "wgnFpISUN0WmFXEKviibUw/6mhX7aES_E6KkhwZ_9VyUA",
+  "Created": "2026-10-07T03:25:18.7396139Z",
+  "Updated": "2026-10-07T03:25:18.7396139Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
